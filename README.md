@@ -11,4 +11,8 @@ Just put the ZAP's logs that u want and Zap_to_AppScan.py in the same directory,
 
 There is no paramater that u need to set up.
 
-So... that's all.
+And u can find some new files which is named like your ZAP's logs, but subfilename is exd.
+
+Now u can import these exd files to AppScan.
+
+So... that's all, hope u can enjoy it :)
