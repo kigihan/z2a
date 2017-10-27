@@ -5,7 +5,7 @@ z2a means **Z**AP **to** **A**ppScan
 It can help u using your ZAP's log import to AppScan directly.
 
 ## HOW TO USE
-Just put the **ZAP's logs** that u want and **Zap_to_AppScan.py** in the same directory, and run the command.
+Just put the **ZAP's logs** that u want and **Zap_to_AppScan.py** in the same directory, then run the python file.
 
 `python Zap_to_AppScan.py`
 
@@ -15,4 +15,4 @@ And u can find some new files which is named like your ZAP's logs, but subfilena
 
 Now u can import these exd files to AppScan.
 
-So... that's all, hope u can enjoy it :)
+So... that's all, hope u like it :)
